@@ -11,7 +11,6 @@ Skills:
   - PHP
   - PYTHON
   - MYSQL
-  - MONGODB
 
 ### Redes y contacto:
 
