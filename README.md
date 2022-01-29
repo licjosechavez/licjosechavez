@@ -1,16 +1,17 @@
 ### Hola 👋, Mi nombre es José Chavez
-#### Soy Desarrollador Web FULLSTACK en PHP y JAVASCRIPT
+#### Soy Desarrollador Web FULLSTACK en PHP/LARAVEL
 
 Skills:
 
   - HTML 
   - CSS
   - JS
-  - NODEJS
-  - REACTJS 
   - PHP
+  - LARAVEL
   - PYTHON
+  - DJANGO
   - MYSQL
+  - BOOTSTRAP
 
 ### Redes y contacto:
 
