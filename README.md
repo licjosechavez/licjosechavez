@@ -1,13 +1,14 @@
 ### Hola 👋, Mi nombre es José Chavez y soy Licenciado en Sistemas.
-#### Soy Desarrollador Web FULLSTACK en PHP/LARAVEL y aprendiendo Frontend en NUCBA.
+#### Soy Desarrollador FullStack JAVA. Capacitándome en Frontend JS en NUCBA y en Backend JAVA en GlobalAcademy & TodoCode
 
 Skills:
 
   - HTML 
   - CSS
   - JS
-  - PHP
-  - LARAVEL
+  - REACT JS
+  - JAVA
+  - SPRING BOOT
   - MYSQL
   - BOOTSTRAP
 
