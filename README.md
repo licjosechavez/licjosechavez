@@ -1,5 +1,5 @@
 ### Hola 👋, Mi nombre es José Chavez y soy Licenciado en Sistemas.
-#### Soy Desarrollador FullStack JAVA. Capacitándome en Frontend JS en NUCBA y en Backend JAVA en GlobalAcademy & TodoCode
+#### Soy Desarrollador FullStack JAVA. Capacitándome en Frontend JS en NUCBA y en Backend JAVA en TodoCode
 
 Skills:
 
